@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e18ebfd6.css",
-    "main.js": "/static/js/main.a7ce1b19.js",
+    "main.css": "/static/css/main.242baa56.css",
+    "main.js": "/static/js/main.527801a5.js",
     "static/js/787.aee78ea2.chunk.js": "/static/js/787.aee78ea2.chunk.js",
-    "static/media/PORTADA.webp": "/static/media/PORTADA.94fb26a6d1eb1a641511.webp",
     "static/media/lugo-01.webp": "/static/media/lugo-01.0dcce0ff174a180854ce.webp",
     "static/media/lugo-02.webp": "/static/media/lugo-02.3208277965659da7152a.webp",
     "static/media/lugo-05.webp": "/static/media/lugo-05.b6e44b92e2d22ff41bf1.webp",
     "static/media/lugo-04.webp": "/static/media/lugo-04.c26a2c7e379f42e8c016.webp",
     "static/media/lugo-03.webp": "/static/media/lugo-03.c01a8779ce95000648e5.webp",
+    "static/media/PORTADA.webp": "/static/media/PORTADA.24cb60570f8acc4813c9.webp",
+    "static/media/logo.png": "/static/media/logo.f5e399dd9e3c4f92d71d.png",
     "index.html": "/index.html",
-    "main.e18ebfd6.css.map": "/static/css/main.e18ebfd6.css.map",
-    "main.a7ce1b19.js.map": "/static/js/main.a7ce1b19.js.map",
+    "main.242baa56.css.map": "/static/css/main.242baa56.css.map",
+    "main.527801a5.js.map": "/static/js/main.527801a5.js.map",
     "787.aee78ea2.chunk.js.map": "/static/js/787.aee78ea2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e18ebfd6.css",
-    "static/js/main.a7ce1b19.js"
+    "static/css/main.242baa56.css",
+    "static/js/main.527801a5.js"
   ]
 }
